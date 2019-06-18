@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Extra</string>
+    <string name="my_name">My Name</string>
+    <string name="next">Next</string>
 </resources>
